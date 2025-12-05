@@ -1,4 +1,4 @@
-## Plano de ação para Frontend Senior
+## Plano de ação para Frontend Enginner
 
 ---
 
